@@ -2,7 +2,11 @@
 
 W tym pliku umieść linki do dodatkowych materiałów, artykułów blogowych, dyskusji w społecznościach i wszelkich innych zasobów, które wykorzystałeś przy tworzeniu dokumentacji, ale nie są oficjalnymi cytatami.
 
-- [IBM Developer Blog: “Watsonx Roadmap Overview”]
+- [IBM Doc: “Watsonx Roadmap Overview”]
+  - **Data publikacji**: DD.MM.RRRR  
+  - **Opis**: Przegląd planu rozwoju Watsonx, informacje o nadchodzących funkcjach.
+  - 
+ - [IBM Doc: “Watsonx Roadmap Overview”](https://www.ibm.com/docs/en/watsonx/saas?topic=overview-watsonx)
   - **Data publikacji**: DD.MM.RRRR  
   - **Opis**: Przegląd planu rozwoju Watsonx, informacje o nadchodzących funkcjach.
 
