@@ -1,11 +1,15 @@
 # Sources
 
-W tym pliku umieść linki do dodatkowych materiałów, artykułów blogowych, dyskusji w społecznościach i wszelkich innych zasobów, które wykorzystałeś przy tworzeniu dokumentacji, ale nie są oficjalnymi cytatami.
+In this file, include links to additional materials, blog articles, community discussions, and any other resources that you used in creating the documentation but are not official citations.
 
 - [IBM Doc: “Watsonx Roadmap Q12025”](https://github.com/arw-michal/AiLab-product/blob/main/data-ai/watsonx/4Q24%20watsonx.ai%20Quarterly%20Enablement.PDF)
   - **Data publikacji**: DD.MM.RRRR  
   - **Opis**: Overview of Watsonx development plan, information on upcoming features.
-  - 
+
+- [IBM Doc: “Watsonx Roadmap Q12025”](https://github.com/arw-michal/AiLab-product/blob/main/data-ai/watsonx/4Q24%20Agents%20on%20watsonx.ai%20Enablement.PDF)
+  - **Data publikacji**: DD.MM.RRRR  
+  - **Opis**: Overview of Watsonx's agents development plan, information on upcoming features.
+  
  - [IBM Doc: “Watsonx Roadmap Overview”](https://www.ibm.com/docs/en/watsonx/saas?topic=overview-watsonx)
   - **Data publikacji**: DD.MM.RRRR  
   - **Opis**: watsonx.ai and governance website documentation.
